@@ -1,0 +1,11 @@
+useDynLib(gsscopu)
+# export user functions
+importFrom(gss, nlm0, smolyak.quad, gauss.quad, mspdsty, msphzd,
+           msphzd1, hzdrate.sshzd, survexp.sshzd)
+export(sscopu, sscopu2, dsscopu, cdsscopu, cpsscopu, cqsscopu,
+       sshzd2d, sshzd2d1, hzdrate.sshzd2d, survexp.sshzd2d)
+#export(mkterm.copu)
+# register S3 methods
+S3method(print, sscopu)
+S3method(print, sshzd2d)
+S3method(summary, sscopu)
