@@ -1,7 +1,7 @@
-a0bc70644a3c0cd7fb1ccadc2aaf97bc *ChangeLog
-1dc998ed11dc96cde7a94bd08fa58a45 *DESCRIPTION
+27fc4462ec67e17b8a180e795ff34336 *ChangeLog
+61dd867bd00d7830aac59bcfa788cf92 *DESCRIPTION
 9ddcff67e9ca590309135d5451226680 *INDEX
-46d40bd6f245af736a0085d208cc9850 *NAMESPACE
+a0586e296d8efb7e93cc440ca1995b49 *NAMESPACE
 28afb3bc3469b09d1db335b5bfe4c88e *R/dsscopu.R
 279a226b1a90eaa6410d85d1fa2849a9 *R/hzdrate.sshzd2d.R
 d32763a8918ad0f6ef9e4b50145e7d1f *R/mkterm.copu.R
@@ -11,7 +11,7 @@ ae9cab3be356830592950abd4019ef82 *R/print.R
 dd0051d0a3076664020e4fa1d9f32bfa *R/sshzd2d.R
 743bcbcebec0623a212d212ed2264954 *R/sshzd2d1.R
 2180d1acae39cf502b56e9738f732eb3 *R/summary.sscopu.R
-2dcca4492512924bb90c4e41416831f3 *data/DiaRet.rda
+4bf801fcea3fee30f8bfd9655d6c6d19 *data/DiaRet.rda
 a45646c483d0bf6db3e2895d5465f584 *man/DiaRet.Rd
 d8dde63ddeb054d13a13a0e16d1ebfe7 *man/cdsscopu.Rd
 13843cbb1bb87239b6726e6b36cfaea5 *man/dsscopu.Rd

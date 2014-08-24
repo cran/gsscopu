@@ -1,7 +1,8 @@
 useDynLib(gsscopu)
 # export user functions
-importFrom(gss, nlm0, smolyak.quad, gauss.quad, mspdsty, msphzd,
-           msphzd1, hzdrate.sshzd, survexp.sshzd)
+importFrom(gss, mkterm, mkran, nlm0, smolyak.quad, gauss.quad,
+           mspdsty, msphzd, msphzd1, sshzd, hzdrate.sshzd,
+           hzdcurve.sshzd, survexp.sshzd, gssanova)
 export(sscopu, sscopu2, dsscopu, cdsscopu, cpsscopu, cqsscopu,
        sshzd2d, sshzd2d1, hzdrate.sshzd2d, survexp.sshzd2d)
 #export(mkterm.copu)
